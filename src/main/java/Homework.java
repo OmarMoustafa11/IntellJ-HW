@@ -26,6 +26,20 @@ public class Homework {
         System.out.println(myGradeInJava);
         boolean areYouInSchool = true;
         System.out.println(areYouInSchool);
+
+        int x = 22;
+        int y = 33;
+        int z = 44;
+        System.out.println(x+y+z);
+
+        int c = 22, d = 33, f = 44;
+        System.out.println(x+y+z);
+
+        //Identifiers
+        int milesPerHour = 35;
+        // good representaion of what that number means
+        int m = 35
+        // the letter m doesnt specify what the number is identifing
         
 
 
