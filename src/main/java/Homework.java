@@ -38,9 +38,27 @@ public class Homework {
         //Identifiers
         int milesPerHour = 35;
         // good representaion of what that number means
-        int m = 35
+        int m = 35;
         // the letter m doesnt specify what the number is identifing
-        
+
+        //JAVA TYPE NUMBERS
+        byte mySisterAge = 19;
+        System.out.println(mySisterAge);
+
+        short myIncome = 3000;
+        System.out.println(myIncome);
+
+        int myGoalIncome = 10000;
+        System.out.println(myGoalIncome);
+
+        long myHouseCost = 5000000;
+        System.out.println(myHouseCost);
+
+        //JAVA BOOLEAN
+        boolean mikailaIsAwesome = true;
+        boolean iLovebaseball = false;
+        System.out.println(mikailaIsAwesome + "\n" + iLovebaseball);
+
 
 
 
