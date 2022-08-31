@@ -59,6 +59,10 @@ public class Homework {
         boolean iLovebaseball = false;
         System.out.println(mikailaIsAwesome + "\n" + iLovebaseball);
 
+        //JAVA CHARACTERS
+        char myFutureGradeInJava ='A';
+        System.out.println(myFutureGradeInJava);
+
 
 
 
