@@ -8,9 +8,18 @@ public class Homework {
         System.out.println("It is so cool");
 
         System.out.print("this line is going to merge with the next.");
-        System.out.print("i am the merging line");
+        System.out.println("i am the merging line");
 
-        //J
+        //JAVA COMMENTS
+            //These are comments
+            // i can write whatever i want and it wont count as a code
+
+        //JAVA VARIABLES
+            String name = "Omar";
+        System.out.println(name);
+        int myAge = 22;
+        System.out.println(myAge);
+        
 
 
 
