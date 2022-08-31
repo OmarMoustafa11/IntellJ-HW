@@ -19,7 +19,15 @@ public class Homework {
         System.out.println(name);
         int myAge = 22;
         System.out.println(myAge);
+
+        float myHeight = 5.99f;
+        System.out.println(myHeight);
+        char myGradeInJava = 'A';
+        System.out.println(myGradeInJava);
+        boolean areYouInSchool = true;
+        System.out.println(areYouInSchool);
         
+
 
 
 
